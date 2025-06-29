@@ -31,7 +31,7 @@ By downloading, installing, or using the App, you agree to be bound by this User
 ## 6. Privacy
 
 * The App does **not** collect personal information or user data.
-* See our [Privacy Policy](PRIVACY_POLICY_LINK) for more details.
+* See our [Privacy Policy](https://muratcagangogebakan.github.io/petbanana-legal/privacy-policy) for more details.
 
 ## 7. Contact Us
 
